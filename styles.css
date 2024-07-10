@@ -13,3 +13,6 @@
 .flex {
   flex-direction: column;
 }
+.b-g {
+  background-color: #f4f4f4f3;
+}
