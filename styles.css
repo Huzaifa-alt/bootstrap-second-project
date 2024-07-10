@@ -1,0 +1,15 @@
+.second-fold {
+  background-color: #adaaaa;
+}
+.first-section-fold {
+  margin: 100px 0;
+}
+.color-heading {
+  color: #7b1515e4;
+}
+.second-section-fold {
+  margin-top: 2rem;
+}
+.flex {
+  flex-direction: column;
+}
